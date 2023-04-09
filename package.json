@@ -1,0 +1,17 @@
+{
+  "name": "jekyll-tailwind-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maud de Vries <emcoding@pm.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.5",
+    "postcss": "^8.3.7",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.15"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^4.5.0"
+  }
+}
